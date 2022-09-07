@@ -23,8 +23,6 @@ public abstract class AbstractClass {
 		return colors;
 	}
 
-	// Testing Git
-	
-	// dev branch
+	// Branch - Dev
 
 }
