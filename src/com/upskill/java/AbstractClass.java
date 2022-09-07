@@ -23,16 +23,6 @@ public abstract class AbstractClass {
 		return colors;
 	}
 
-	// Testing Git
-	
-	
-	//testing update 
-	
-	
-	//123
-	
-	
-	
 	
 
 }
